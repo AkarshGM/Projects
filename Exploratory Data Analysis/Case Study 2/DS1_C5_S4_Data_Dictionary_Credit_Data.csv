@@ -1,0 +1,25 @@
+index,Row,Description
+1,SK_ID_CURR,ID of loan in our sample
+2,TARGET,"Target variable (1 - client with payment difficulties: he/she had late payment more than X days on at least one of the first Y installments of the loan in our sample, 0 - all other cases)"
+3,NAME_CONTRACT_TYPE,Identification if loan is cash or revolving
+4,GENDER,Gender of the client
+5,Car,Flag if the client owns a car
+6,House,Flag if client owns a house or flat
+7,CNT_CHILDREN,Number of children the client has
+8,AMT_INCOME_TOTAL,Income of the client
+9,AMT_CREDIT,Credit amount of the loan
+10,AMT_GOODS_PRICE,For consumer loans it is the price of the goods for which the loan is given
+11,NAME_TYPE_SUITE,Who was accompanying client when he was applying for the loan
+12,NAME_INCOME_TYPE,"Clients income type (businessman, working, maternity leave,…)"
+13,NAME_EDUCATION_TYPE,Level of highest education the client achieved
+14,NAME_FAMILY_STATUS,Family status of the client
+15,DAYS_EMPLOYED,How many days before the application the person started current employment
+16,MOBILE,"Did client provide mobile phone (1=YES, 0=NO)"
+17,WORK_PHONE,"Did client provide work phone (1=YES, 0=NO)"
+18,HOME_PHONE,"Did client provide home phone (1=YES, 0=NO)"
+19,MOBILE_REACHABLE,"Was mobile phone reachable (1=YES, 0=NO)"
+20,FLAG_EMAIL,"Did client provide email (1=YES, 0=NO)"
+21,OCCUPATION_TYPE,What kind of occupation does the client have
+22,CNT_FAM_MEMBERS,How many family members does client have
+23,APPLICATION_DAY,On which day of the week did the client apply for the loan
+24,TOTAL_DOC_SUBMITTED,Number of documents submitted during loan 
