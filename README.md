@@ -7,3 +7,4 @@ Naming of the files are according to the Certification Program on Professional D
 The batch started from February. Hence the month February is mentioned in all my practice file names.
 
 Folders represent each courses and Sprints represent weekly concept/topic practices. 
+'C' in file name indicates 'Course' and 'S' indicates 'Sprint'.
