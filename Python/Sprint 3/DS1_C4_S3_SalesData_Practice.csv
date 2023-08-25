@@ -1,0 +1,31 @@
+Month,Store,Sales,State
+Jan,A,21080,Alaska
+Jan,B,32985,Texas
+Jan,C,22369,California
+Jan,D,45710,Montana
+Jan,E,27113,New Mexico
+Feb,A,27573,Alaska
+Feb,B,31244,Texas
+Feb,C,48624,California
+Feb,D,31768,Montana
+Feb,E,23851,New Mexico
+Mar,A,33274,Alaska
+Mar,B,27215,Texas
+Mar,C,23475,California
+Mar,D,21357,Montana
+Mar,E,22130,New Mexico
+Apr,A,26073,Alaska
+Apr,B,45919,Texas
+Apr,C,30279,California
+Apr,D,21394,Montana
+Apr,E,25184,New Mexico
+May,A,37649,Alaska
+May,B,44597,Texas
+May,C,29697,California
+May,D,28943,Montana
+May,E,22541,New Mexico
+Jun,A,28500,Alaska
+Jun,B,32896,Texas
+Jun,C,30200,California
+Jun,D,37098,Montana
+Jun,E,41098,New Mexico
